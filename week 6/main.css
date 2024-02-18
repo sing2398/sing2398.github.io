@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    background-color: brown;
+}
+aside p {
+    font-size: 12px;
+}
+strong{
+    font-weight: normal;
+}
+ article span{
+font-weight: bold;
+font-style: italic;
+}
+h2{
+    text-transform: uppercase;
+}
